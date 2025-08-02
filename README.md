@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Healthcare Appointment Booking App
 
 Simple React.js app for browsing doctors and booking appointments.
@@ -19,3 +20,6 @@ Simple React.js app for browsing doctors and booking appointments.
 ```bash
 npm install
 npm start
+=======
+# healthcare_app
+>>>>>>> f35d22b9e1a937148157cc69ec50f90ba63faee3
